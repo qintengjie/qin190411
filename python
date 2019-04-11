@@ -3,3 +3,4 @@ print("hello world")
 name = "xiaohong"
 age = 18
 xiao = "laowang"
+rng={"mlxg","xiaohu","zui"}
